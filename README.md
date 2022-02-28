@@ -7,8 +7,8 @@ This is because the generator and the discriminator have a more adversarial rela
 
 <table>
    <tr>
-    <td><img src="images/input.png" width=1024 height=1024></td>
-    <td><img src="images/ground.png" width=1024 height=1024></td>
+    <td><img src="images/input.png" width=512 height=512></td>
+    <td><img src="images/ground.png" width=512 height=512></td>
    </tr>
    <tr>
     <td align="center">input</td>
