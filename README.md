@@ -7,16 +7,16 @@ This is because the generator and the discriminator have a more adversarial rela
 
 <table>
    <tr>
-    <td><img src="images/input.png" width=448 height=448></td>
-    <td><img src="images/ground.png" width=448 height=448></td>
+    <td><img src="images/input.png" width=400 height=400></td>
+    <td><img src="images/ground.png" width=400 height=400></td>
    </tr>
    <tr>
     <td align="center">input</td>
     <td align="center">ground truth</td>
    </tr>
    <tr>
-    <td><img src="images/output_crossSRGAN.png" width=448 height=448></td>
-    <td><img src="images/output_SRGAN.png" width=448 height=448></td>
+    <td><img src="images/output_crossSRGAN.png" width=400 height=400></td>
+    <td><img src="images/output_SRGAN.png" width=400 height=400></td>
    </tr>
    <tr>
     <td align="center">output crossSRGAN</td>
