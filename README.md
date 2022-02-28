@@ -12,7 +12,7 @@ This is because the generator and the discriminator have a more adversarial rela
    </tr>
    <tr>
     <td align="center">input</td>
-    <td align="center">ground</td>
+    <td align="center">ground truth</td>
    </tr>
    <tr>
     <td><img src="images/output_crossSRGAN.png" width=512 height=512></td>
