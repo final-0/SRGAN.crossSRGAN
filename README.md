@@ -5,6 +5,17 @@ crossSRGAN can generate better realistic images than SRGAN under certain conditi
 The loss function of crossSRGAN is different from that of SRGAN.
 This is because the generator and the discriminator have a more adversarial relationship.
 
+<table>
+   <tr>
+    <td><img src="images/input.png" width=1024 height=1024></td>
+    <td><img src="images/ground.png" width=1024 height=1024></td>
+   </tr>
+   <tr>
+    <td align="center">input</td>
+    <td align="center">ground</td>
+   </tr>
+  </table>
+
 ## Dataset Preparation <br>
 dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?select=train
 - recommendation <br>
