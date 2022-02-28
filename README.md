@@ -14,6 +14,14 @@ This is because the generator and the discriminator have a more adversarial rela
     <td align="center">input</td>
     <td align="center">ground</td>
    </tr>
+   <tr>
+    <td><img src="images/output_crossSRGAN.png" width=512 height=512></td>
+    <td><img src="images/output_SRGAN.png" width=512 height=512></td>
+   </tr>
+   <tr>
+    <td align="center">output crossSRGAN</td>
+    <td align="center">output SRGAN</td>
+   </tr>
   </table>
 
 ## Dataset Preparation <br>
