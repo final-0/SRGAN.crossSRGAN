@@ -1,4 +1,4 @@
-# crossSRGAN
+# SRGAN.crossSRGAN
 
 ## Abstract
 crossSRGAN can generate better realistic images than SRGAN under certain condition.
